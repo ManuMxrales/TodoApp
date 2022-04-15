@@ -1,0 +1,24 @@
+li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+}
+.icon_container{
+    stroke: #ffffff;
+}
+.Icon_check--active{
+    stroke: green;
+}
+.item{
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+.itemCompleted {
+    font-weight: 300;
+    text-decoration: line-through;
+}
+.icon-tabler-trash:hover {
+    stroke: red;
+}
