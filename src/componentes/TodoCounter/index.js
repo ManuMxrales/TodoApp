@@ -9,5 +9,5 @@ function TodoCounter(){
         <h2 className="titulo" >Haz Completado <br></br> {completedTodos} TODOs de {totalTodos}</h2>
     );
 }
-
+//ok
 export { TodoCounter };

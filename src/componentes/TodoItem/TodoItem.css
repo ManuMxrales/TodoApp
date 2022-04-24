@@ -4,6 +4,7 @@ li{
     justify-content: space-between;
     align-items: center;
     margin: 15px;
+    
 }
 .icon_container{
     stroke: #ffffff;
@@ -14,6 +15,7 @@ li{
 .item{
     font-weight: 400;
     font-size: 1.6rem;
+    padding: 10px;
 }
 .itemCompleted {
     font-weight: 300;

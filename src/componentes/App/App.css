@@ -1,7 +1,7 @@
-.App {
+.msg{
   text-align: center;
-  font-size: 62.5%;
-  color: white;
+  font-weight: bold;
+  font-size: 4rem;
+  margin: 30px;
 }
-
 

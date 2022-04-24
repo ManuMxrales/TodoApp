@@ -28,6 +28,7 @@
    box-shadow: 0 0 20px rgb(23, 17, 17);
    border-radius: 10px;
    display: block;
+   z-index: 1;
  }
 
  .add_button:hover {

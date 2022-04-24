@@ -1,5 +1,5 @@
 import React from 'react';
-// import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom';
 import './index.css';
 import App from './componentes/App/index.js';
 import {createRoot} from 'react-dom/client';
@@ -19,3 +19,7 @@ root.render(<App />)
 // );
 ////////////////////////////////
 
+// ReactDOM.createPortal(
+//     <App />
+//     document.getElementById('modal')
+// );
